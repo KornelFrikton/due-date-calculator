@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/due-date-calculator/static/css/main.bb21501b.css",
+    "main.js": "/due-date-calculator/static/js/main.311161d1.js",
+    "static/js/787.e3052ef0.chunk.js": "/due-date-calculator/static/js/787.e3052ef0.chunk.js",
+    "index.html": "/due-date-calculator/index.html",
+    "main.bb21501b.css.map": "/due-date-calculator/static/css/main.bb21501b.css.map",
+    "main.311161d1.js.map": "/due-date-calculator/static/js/main.311161d1.js.map",
+    "787.e3052ef0.chunk.js.map": "/due-date-calculator/static/js/787.e3052ef0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb21501b.css",
+    "static/js/main.311161d1.js"
+  ]
+}
